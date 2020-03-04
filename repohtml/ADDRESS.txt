@@ -1,0 +1,15 @@
+INSTAGRAM=https://github.com/Mohitcodex/social_media/blob/master/repohtml/1024px-Instagram_logo_2016.svg.png
+
+TWITER=https://github.com/Mohitcodex/social_media/blob/master/repohtml/TwitterBird.png
+
+SNAPCHART=https://github.com/Mohitcodex/social_media/blob/master/repohtml/kisspng-snapchat-logo-snap-inc-5b2c7e9b8f3b30.1676840615296426515867.jpg
+
+
+FACEBOOK=https://github.com/Mohitcodex/social_media/blob/master/repohtml/logo_facebook.png
+
+
+WHATAPP=https://github.com/Mohitcodex/social_media/blob/master/repohtml/whatsapp-logo.png
+
+
+
+BACKGROUND=https://github.com/Mohitcodex/social_media/blob/master/repohtml/ceea7756f6b2fd0e2e3de9f94a0ba555.jpg
